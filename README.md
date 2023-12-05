@@ -4,12 +4,11 @@ Open-source codes and data of [A three-dimensional prediction method of stiffnes
 
 Programmed by:  
     Su Hao, Guan TianYuan, Liu Yan  
-    Computational Dynamics Group, School of Aerospace  
-    Engineering, Tsinghua University, 2023.10.24.  
+    Computational Dynamics Group, School of Aerospace Engineering, Tsinghua University, 2023.12.5.  
 
 If you refer to our works, please cite *Su Hao, Guan TianYuan, Yan Liu. A three-dimensional prediction method of stiffness properties of composites based on deep learning. Computational Mechanics (2023) 71:583–597.*
 
-You can run *test_cnn.py* to call the neural network model.
+You can run [*test_cnn.py*](./test_cnn.py) to call the neural network model.
 
 # Directory
 * test_cnn.py
